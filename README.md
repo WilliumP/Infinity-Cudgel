@@ -1,6 +1,7 @@
 # Infinity-Cudgel
 Privacy policy 
- 
+
+
 Chihe is an international entertainment company specialized in the publishing of mobile games and applications. 
 The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by Chihe when you use one of our applications or browse on our website. This privacy policy governs and details the main principles that Chihe applies to the data we collect and process to:
 (i) develop, publish and monetize mobile games and applications (“Chihe Games”)
@@ -11,17 +12,21 @@ Why does Chihe collect data from its apps and games?
 When you install and use Chihe mobile applications, we can collect and process some of your data for different legitimate purposes.
 You will find below explanations regarding the reasons why Chihe may collect data and the legal bases Chihe relies on in each case. 
 Chihe collects data: 
+
 1.To provide you with the services you asked for(e.g., knowing that you completed the first level to allow access to the second one)
 Legal basis – such data processing is strictly necessary for the service(s) asked
+
 2.To run analytics and understand how users interact with our product and services in order to continuously improve it either directly or through third party partners
 (e.g. identifying that a feature is annoying for users or that a level is too difficult for most gamers)
 Legal basis for third party analytics - Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, Chihe only shares personal data collected through Chihe apps with third party partners that provide Chihe with analytics services once you express your consent through the pop-up notice included in our apps.
 Legal basis for first party analytics – Legitimate interest. Chihe collects user data for the purpose of its own internal analytics tools. Data is used for the sole purpose of Chihe analytics tool and is not shared with any third parties. This data processing is based on the legitimate interest of Chihe.
+
 3.To serve advertising tailored to the preference and interests of our users
 and allow Chihe to continue to provide free services and products
 Legal basis – Express consent. In the countries where collecting users’ consent may be required by applicable laws and regulations, Chihe only processes or shares personal data collected through Chihe apps for personalized advertising purposes once you express your consent through the pop-up notice included in one of our apps.
 For all data processing activities that rely on users’ consent, you can withdraw your consent at any time from the “settings” page in our various applications.
 Please only note that in the case where you withdraw your consent or where you refuse to consent in the first place, you will still be served with advertising but that may be less relevant to you as it will not be tailored to your interests.
+
 What data does Chihe collect from its apps and games?
 For all the purposes listed above the data that Chihe collect is limited to:
 1.The apps you are using
