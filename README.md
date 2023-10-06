@@ -6,6 +6,7 @@ The purpose of this policy is to provide you with all the important information 
 This policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.
 Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact Guanshanfu Data Protection Officer as indicated in the contact section of this policy. 
 **Guanshanfu apps and games**
+
 **Why does Guanshanfu collect data from its apps and games?**
 When you install and use Guanshanfu mobile applications, we can collect and process some of your data for different legitimate purposes.
 You will find below explanations regarding the reasons why Guanshanfu may collect data and the legal bases Guanshanfu relies on in each case. 
@@ -63,11 +64,13 @@ Personal data collected, received and processed for the purposes described in th
 Guanshanfu does not retain user level data for more than 13 months except for the data collected for the purpose of its first-party analytics tool which can be stored up to 25 months based on the guidelines of our Supervisory Data Protection Authority.
 **Children data**
 Guanshanfu never knowingly or willingly collect any personal data concerning children under 16 years of age.
+
 **International transfers**
 Some of the partners and processors referred to in this policy are located outside of the European Union.
 In such case, we ensure that:
 the personal data is transferred to countries recognized as offering an equivalent level of protection or,
 For personal data transferred outside of countries recognized by the European Commission as having a sufficient level of protection, any of the mechanisms offering appropriate guarantees is used, for which provision is made by applicable regulations, and notably the adoption of the standard contractual clauses of the European Commission.
+
 **What rights do you have?**
 Consent withdrawal and opt-out of sale of information
 You can change your consent status at any time from the Privacy Settings available in Guanshanfu mobile games and applications. 
@@ -75,10 +78,12 @@ Please note that if Guanshanfu does not sell the personal information of its use
 Adjusting your consent settings within Guanshanfu apps and games, will allow you to block the collection of data for these purposes and will de facto prevent the sharing of information with our analytics and/or advertising partners.
 Access right
 Upon request, Guanshanfu will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information directly in Guanshanfu mobile apps or by contacting Guanshanfu Data Protection Officer as indicated in the “Contact” section below. We will respond to your request within a reasonable timeframe.
+
 **Rectification and erasure**
 You may request Guanshanfu the rectification of inaccurate personal data concerning you, as well as the completion of incomplete personal data. You may also request Guanshanfu to erase without undue delay your personal data when it is no longer necessary for Guanshanfu to retain such data.
 In order for your data to be erased or rendered inaccessible you can either: 
 reset your mobile advertising identifier (IDFA on iOS, GAAID on Androïd) or activate “Limit Ad Tracking” in your device’ settings in order to make previously collected data non linkable to you or your device anymore and limit further data collection if you choose to enable the “Limit Ad Tracking” option
 contact Guanshanfu Data Protection Officer, as indicated in the “Contact” section below in order to have the data previously collected by Guanshanfu on you and/or your device permanently erased or anonymized
+
 **Portability**
 Upon request, Guanshanfu will provide you with the personal data that you provided to us and, if possible, will communicate this information directly to another data controller of your choice in a portable format when the processing is based on consent or contract.
